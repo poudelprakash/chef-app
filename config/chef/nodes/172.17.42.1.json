@@ -1,0 +1,17 @@
+{
+  "group": "foobars",
+  "port": 32768,
+
+  "user": {
+    "name": "root",
+    "password": "$1$21Rul7vd$XldWVqshDnfAkBm/UNRfE1"
+  },
+
+  "db": {
+    "root_password": "secret",
+    "user": {
+      "name": "bob",
+      "password": "secret"
+    }
+  }
+}
