@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'test_plugin', :path => "../test_plugin"
+gem 'test_engine', :path => "../test_plugin"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use sqlite3 as the database for Active Record
