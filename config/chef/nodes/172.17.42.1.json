@@ -7,11 +7,8 @@
     "password": "$1$21Rul7vd$XldWVqshDnfAkBm/UNRfE1"
   },
 
-  "db": {
-    "root_password": "secret",
-    "user": {
-      "name": "bob",
-      "password": "secret"
-    }
-  }
+  "run_list": [
+    "recipe[best_app]"
+  ]
 }
+
