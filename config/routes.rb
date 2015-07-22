@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  mount TestPlugin::Engine, :at => "shop"
   resources :items
   root 'items#index'
   # The priority is based upon order of creation: first created -> highest priority.

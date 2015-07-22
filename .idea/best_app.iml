@@ -120,6 +120,24 @@
     </content>
     <orderEntry type="jdk" jdkName="RVM: ruby-2.2.1 [rails421]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="test_plugin (v0.0.1, /home/prakash/RubymineProjects/test_plugin) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../test_plugin/app" />
+          <root url="file://$MODULE_DIR$/../test_plugin/bin" />
+          <root url="file://$MODULE_DIR$/../test_plugin/lib" />
+          <root url="file://$MODULE_DIR$/../test_plugin/.idea" />
+          <root url="file://$MODULE_DIR$/../test_plugin/config" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../test_plugin/app" />
+          <root url="file://$MODULE_DIR$/../test_plugin/bin" />
+          <root url="file://$MODULE_DIR$/../test_plugin/lib" />
+          <root url="file://$MODULE_DIR$/../test_plugin/.idea" />
+          <root url="file://$MODULE_DIR$/../test_plugin/config" />
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.7.2, RVM: ruby-2.2.1 [rails421]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, RVM: ruby-2.2.1 [rails421]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.9.1, RVM: ruby-2.2.1 [rails421]) [gem]" level="application" />
